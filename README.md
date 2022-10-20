@@ -1,7 +1,7 @@
 # CS-330-Comp-Graphic-and-Visualization
 
 * How do I approach designing software?
-      I approach the design of the software by first understanding what was the goal, how I am able to get there, and what kind o problem could I face on my way. Then I divide the work into small tasks to minimize error and maximize my time efficiency. 
+      - I approach the design of the software by first understanding what was the goal, how I am able to get there, and what kind o problem could I face on my way. Then I divide the work into small tasks to minimize error and maximize my time efficiency. 
   
 * What new design skills has your work on the project helped you to craft?
       The improvement and development of new skills definitely impacted my process to develop assignments and projects, skills like solving problems and time management were crucial since I have a limited amount of time so I had to take advantage of every second. Solving problems skill was crucial for the development of this assignment since the creation of objects and manipulation of light and texture is a little complicated. 
